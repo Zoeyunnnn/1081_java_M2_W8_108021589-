@@ -8,7 +8,7 @@ public class M2Q5 {
 
         String str="";
         while (n>0) {
-            str = Integer.toString((n%2))+str;
+            str = Integer.toString(n%2)+str;
             n /= 2;
         }
         /*int a = str.length();

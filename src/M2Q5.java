@@ -6,6 +6,5 @@ public class M2Q5 {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
-
     }
 }
